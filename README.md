@@ -16,5 +16,5 @@ This is a simple calculator app built using React. It allows basic arithmetic op
 1. **Clone the repository:**
 
    ```sh
-   git clone 
+   git clone https://github.com/Riya-karki23/Calculator.git
    cd calculator-app
