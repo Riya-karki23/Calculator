@@ -18,3 +18,5 @@ This is a simple calculator app built using React. It allows basic arithmetic op
    ```sh
    git clone https://github.com/Riya-karki23/Calculator.git
    cd calculator-app
+
+https://calculator-bice-sigma.vercel.app/
