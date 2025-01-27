@@ -110,8 +110,8 @@ button {
   }
 
   button {
-    height: 12vh;
-    width: 20vw;
+    height: 10vh;
+    width: 22vw;
     font-size: 16px;
     margin: 1vh 2vw;
   }
@@ -121,10 +121,10 @@ button {
     padding: 0 12px;
   }
 
-  .equal {
-    height: 12vh;
-    width: 60vw;
-    bottom: 3vh;
-    right: 10vw;
-  }
+      .equal {
+        height: 6vh;
+        width: 76vw;
+        bottom: 1vh;
+        right: 7vw;
+      }
 }
