@@ -71,3 +71,21 @@ button{
    align-items: center;
   justify-content: center;
 }
+
+
+@media(max-width:468px){
+  .box{
+    height:100%;
+    width:100%;
+  }
+  button{
+    height:15px;
+    width:23px;
+  }
+  .equal{
+    height:14.2vh;
+    width:167px;
+    bottom:-0.6vh;
+    right:5vw;
+  }
+}
